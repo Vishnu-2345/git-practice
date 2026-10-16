@@ -4,3 +4,4 @@
 "This is a competing change on a branch" 
 "Line added to the main branch" 
 "Line added on conflict branch" 
+"Edit on main branch" 
